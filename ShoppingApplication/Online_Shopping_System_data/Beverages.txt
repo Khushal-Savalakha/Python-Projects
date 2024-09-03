@@ -1,0 +1,50 @@
+Black Tea#Bv1#20#Weight:100 g#Description:This is a Vegetarian product.Classic tea with a robust flavorHigh in antioxidants and commonly enjoyed with or without milk
+Green Tea#Bv2#25#Weight:50 g#Description:This is a Vegetarian product.Light and refreshing teaKnown for its health benefits and rich in antioxidants
+Coffee Beans (Assorted)#Bv3#30#Weight:250 g#Description:This is a Vegetarian product.Assorted coffee beans for brewingChoose between different roast levels and flavors
+Instant Coffee#Bv4#15#Weight:100 g#Description:This is a Vegetarian product.Convenient instant coffee granulesQuick and easy to prepare with hot water or milk
+Chai Masala#Bv5#18#Weight:50 g#Description:This is a Vegetarian product.Spice blend for making traditional Indian chaiEnhances the flavor of tea with aromatic spices
+Hot Chocolate Mix#Bv6#25#Weight:200 g#Description:This is a Vegetarian product.Cocoa-based mix for hot chocolateRich and creamy, perfect for chilly days
+Lemon Iced Tea#Bv7#35#Volume:1 liter#Description:This is a Vegetarian product.Pre-brewed iced tea with a hint of lemonRefreshing and ready to serve over ice
+Orange Pekoe Tea#Bv8#22#Weight:150 g#Description:This is a Vegetarian product.High-quality black tea leavesWell-balanced flavor, suitable for daily enjoyment
+Earl Grey Tea#Bv9#28#Weight:75 g#Description:This is a Vegetarian product.Black tea flavored with bergamot oilDistinctive citrusy and floral notes
+Matcha Powder#Bv10#40#Weight:50 g#Description:This is a Vegetarian product.Finely ground green tea powderUsed in traditional Japanese tea ceremonies and various recipes
+Cappuccino Mix#Bv11#45#Weight:250 g#Description:This is a Vegetarian product.Instant mix for creamy cappuccinoIdeal for coffee lovers who enjoy a frothy texture
+White Tea#Bv12#50#Weight:50 g#Description:This is a Vegetarian product.Delicate and minimally processed teaSubtle flavor and higher caffeine content than green tea
+Mint Infusion#Bv13#18#Volume:100 g#Description:This is a Vegetarian product.Dried mint leaves for herbal infusionCaffeine-free, soothing, and refreshing
+Rooibos Tea#Bv14#30#Weight:75 g#Description:This is a Vegetarian product.Red herbal tea from South AfricaNaturally caffeine-free with a mild and sweet taste
+Fruit Punch#Bv15#40#Volume:1 liter#Description:This is a Vegetarian product.Mixed fruit drink with a vibrant flavorPerfect for parties and gatherings
+Ginger Turmeric Tea#Bv16#20#Weight:60 g#Description:This is a Vegetarian product.Herbal tea blend with ginger and turmericKnown for its potential health benefits
+Mango Iced Tea#Bv17#35#Volume:1 liter#Description:This is a Vegetarian product.Pre-brewed iced tea with mango flavorSweet and tropical, perfect for hot days
+Peach Tea#Bv18#25#Weight:100 g#Description:This is a Vegetarian product.Black tea infused with peach flavorSweet and aromatic, enjoyed hot or iced
+Hibiscus Infusion#Bv19#22#Volume:75 g#Description:This is a Vegetarian product.Dried hibiscus petals for herbal teaBright and tangy with potential health benefits
+Lavender Chamomile Tea#Bv20#18#Weight:50 g#Description:This is a Vegetarian product.Blend of lavender and chamomile flowersCalming and perfect for relaxation
+Mocha Coffee#Bv21#50#Volume:500 ml#Description:This is a Vegetarian product.Ready-to-drink mocha coffee with chocolate flavorChilled and perfect for coffee enthusiasts
+Iced Latte#Bv22#30#Volume:750 ml#Description:This is a Vegetarian product.Pre-made iced latte with milk and espressoConvenient for a quick and refreshing coffee break
+Pomegranate Green Tea#Bv23#28#Weight:80 g#Description:This is a Vegetarian product.Green tea with the added flavor of pomegranateAntioxidant-rich and mildly sweet
+Chamomile Lemon Tea#Bv24#20#Weight:60 g#Description:This is a Vegetarian product.Chamomile tea with a hint of lemonSoothing and caffeine-free
+Coconut Water#Bv25#15#Volume:500 ml#Description:This is a Vegetarian product.Natural and hydrating coconut waterRefreshing and rich in electrolytes
+Apple Cider#Bv26#35#Volume:1 liter#Description:This is a Vegetarian product.Unfiltered apple cider with a sweet-tart tasteEnjoyed hot or cold, especially in autumn
+Guava Juice#Bv27#40#Volume:750 ml#Description:This is a Vegetarian product.Pure guava juice with no added sugarNaturally sweet and packed with vitamin C
+Strawberry Lemonade#Bv28#25#Volume:500 ml#Description:This is a Vegetarian product.Refreshing lemonade with strawberry flavorPerfect for a summer thirst-quencher
+Peach Mango Smoothie#Bv29#30#Volume:300 ml#Description:This is a Vegetarian product.Blended smoothie with the goodness of peach and mangoCreamy and delicious
+Ginger Ale#Bv30#18#Volume:750 ml#Description:This is a Vegetarian product.Sparkling ginger-flavored sodaIdeal as a standalone beverage or a mixer
+Tomato Juice#Bv31#20#Volume:500 ml#Description:This is a Vegetarian product.Pure tomato juice with no additivesCan be enjoyed on its own or used in cocktails
+Cranberry Pomegranate Juice#Bv32#45#Volume:1 liter#Description:This is a Vegetarian product.Blend of cranberry and pomegranate juicesRefreshing and rich in antioxidants
+Aloe Vera Drink#Bv33#22#Volume:500 ml#Description:This is a Vegetarian product.Aloe vera-infused beverage with a mild flavorKnown for its potential health benefits
+Blueberry Iced Tea#Bv34#30#Volume:750 ml#Description:This is a Vegetarian product.Iced tea infused with blueberry flavorSweet and fruity, perfect for summer
+Peppermint Hot Chocolate#Bv35#28#Volume:400 ml#Description:This is a Vegetarian product.Hot chocolate with a hint of peppermintComforting and great for cold weather
+Cherry Vanilla Soda#Bv36#25#Volume:300 ml#Description:This is a Vegetarian product.Soda with the flavors of cherry and vanillaFizz and sweetness in every sip
+Lemon Ginger Detox Water#Bv37#15#Volume:500 ml#Description:This is a Vegetarian product.Infused water with lemon and gingerRefreshing and believed to
+Raspberry Iced Tea#Bv38#30#Volume:750 ml#Description:This is a Vegetarian product.Iced tea with the natural flavor of raspberriesTart and sweet, perfect for summer
+Butterfly Pea Flower Tea#Bv39#40#Weight:50 g#Description:This is a Vegetarian product.Tea made from butterfly pea flowersKnown for its vibrant blue color and potential health benefits
+Mango Lassi#Bv40#35#Volume:500 ml#Description:This is a Vegetarian product.Traditional Indian drink with mango and yogurtCreamy and cooling, especially in warm weather
+Hazelnut Coffee#Bv41#30#Volume:250 ml#Description:This is a Vegetarian product.Ready-to-drink coffee with hazelnut flavorA delightful combination of coffee and nutty sweetness
+Watermelon Juice#Bv42#25#Volume:750 ml#Description:This is a Vegetarian product.Pure watermelon juice with no added sugarRefreshing and hydrating on hot days
+Turmeric Latte Mix#Bv43#35#Weight:100 g#Description:This is a Vegetarian product.Golden latte mix with turmeric and spicesWarm and comforting, with potential health benefits
+Grapefruit Sparkling Water#Bv44#18#Volume:500 ml#Description:This is a Vegetarian product.Carbonated water with the essence of grapefruitCrisp and refreshing without added sugars
+Pina Colada Mix#Bv45#40#Volume:750 ml#Description:This is a Vegetarian product.Mix for making tropical pina colada drinksEnjoy the taste of coconut and pineapple
+Jasmine Green Tea#Bv46#25#Weight:75 g#Description:This is a Vegetarian product.Fragrant jasmine-infused green teaAromatic and soothing, perfect for relaxation
+Mint Mojito Mix#Bv47#30#Volume:500 ml#Description:This is a Vegetarian product.Pre-made mix for refreshing mint mojitosJust add soda and fresh mint leaves
+Papaya Smoothie#Bv48#35#Volume:300 ml#Description:This is a Vegetarian product.Blended smoothie with the goodness of papayaCreamy and rich in vitamins
+Blackcurrant Cordial#Bv49#22#Volume:250 ml#Description:This is a Vegetarian product.Concentrated blackcurrant syrup for beveragesDilute with water for a fruity drink
+Chamomile Lavender Lemonade#Bv50#28#Volume:500 ml#Description:This is a Vegetarian product.Lemonade infused with chamomile and lavenderRelaxing and perfect for a calm afternoon

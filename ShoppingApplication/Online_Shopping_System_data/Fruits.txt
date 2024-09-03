@@ -1,0 +1,57 @@
+Apple #F1# 182 #Fruit Weight:1 kg # Description:This is a Vegetarian product.Baby Shimla apples are one of the healthiest fruits.Good source of vitamin C, dietary fiber, flavonoids, and antioxidants
+Water Melon #F2# 60.0 #Fruit Weight:1 kg # Description:This is a Vegetarian product.Contains vibrant pink-red flesh inside the fruit.Low in calories and rich in antioxidants.Watermelons have excellent hydrating properties with 90% water content
+Strawberry #F3# 59.00 #Fruit Weight:200 g # Description:This is a Vegetarian product.Fresh, hygienic, and natural.Graded, sorted, and premium quality fruits and vegetables.Ingredients: Fresh Strawberries
+Grapes #F4# 79.0 #Fruit Weight:500 g # Description:This is a Vegetarian product.No preservatives & no artificial flavor.Fresh, hygienic, and natural.Graded, sorted, and fruits and vegetables
+Lemon #F5# 17.0 #Fruit Weight:250 g # Description:This is a Vegetarian product.Fresh and juicy.Good source of Vitamin B6, C, Iron, Potassium, and Calcium.Can be used to make juice, tea, pickle, or to add taste to dishes
+Banana #F6# 50.00 #Fruit Weight:1 kg # Description:This is a Vegetarian product.It is a semi-tall variety, grown mostly in Tamil Nadu and some parts of Karnataka for table purpose. Andhra Pradesh and Maharashtra. It is a high yielding and produces bunch of large size with well-developed fruits. Fruit is very sweet with a good aroma. Bunch weighs about 25-30 kg.
+Guava #F7# 59.00 #Fruit Weight:5 kg # Description:This is a Vegetarian product.Fresh, hygienic, and natural.Guava is a very popular fruit as it boosts energy in the body.Rich in Vitamin A, C, folate, fiber, and lycopene.Store ripe guavas under refrigeration 
+Dragon Fruit #F8# 82.00 #Fruit Weight:250 g # Description:This is a Vegetarian product.Sorted and graded with hygiene.Item form: whole
+Avocado #F9# 214.00 #Fruit Weight:100 g # Description:This is a Vegetarian product.Often referred to as superfruit due to its health properties.Rich in vitamins C, K, E, Potassium, Folate, and Dietary Fiber.Used in both Savory and Sweet dishes
+Pear #F10# 85.0 #Fruit Weight:200 g # Description:This is a Vegetarian product.Good Quality specifications (140gm/piece).It contains no cholesterol, no sodium, free from saturated fat, an excellent source of fiber, and a good source of vitamin.Crunchy and tart, but when fully ripe, has juicy, buttery texture & a sweet flavor.Material features: vegetarian
+Mosambi #F11# 68 #Fruit Weight:1 kg # Description:This is a Vegetarian product.Fresh, hygienic, and natural.Mosambi is soft yellow colored, mildly sweet tasting.This wonderful fruit is rich in Vitamin C and Potassium.Item form: whole
+Orange #F12# 45.00 #Fruit Weight:1 kg # Description:This is a Vegetarian product.Fresh, hygienic, and natural.Graded and sorted fruits and vegetables.Item form: whole
+Pomegranate #F13# 80 #Fruit Weight:2 kg # Description:This is a Vegetarian product.Has sweet-tart taste with tangy, fruity Good Quality specifications (180gm/pcRich supplier of soluble and insoluble dietary fibers, vitamin K, C, minerals and B-complex vitamins such as B5, B6
+Ber #F14# 23.00 #Fruit Weight:250 g # Description:This is a Vegetarian product.Fresh, hygienic, and natural.Graded, sorted, and premium quality fruits and vegetables
+Sapota #F15# 56.00 #Fruit Weight:500 g # Description:This is a Vegetarian product.Sapotas are considered as one of the sweetest fruits.Rich in vitamin A, C, niacin, folate, potassium, and iron.Contains anti-inflammatory properties and act as detoxifying agents
+Custard Apple #F16# 84 #Fruit Weight:450 g # Description:This is a Vegetarian product.Fresh, hygienic, and natural.Graded, sorted, and premium quality fruits and vegetables
+Coconut Water #F17# 38.00 #Fruit Weight:1 Piece # Description:This is a Vegetarian product.Natural and tasty energy drink.Rich in antioxidants.Good source of potassium, and protein
+Pineapple #F18# 73.00 #Fruit Weight:800 g # Description:This is a Vegetarian product.Loosely fibrous and juicy with white to yellowish flesh.Good Quality specifications (750gm).Great source of vitamin C, vitamin B, and manganese.Item form: whole
+Black Grapes #F19# 75.00 #Fruit Weight:500 g # Description:This is a Vegetarian product.Fresh, hygienic, and natural.Graded, sorted, and premium quality fruits and vegetables
+Mango #F20# 120.00 #Fruit Weight:500 g # Description:This is a Vegetarian product.Sweet and juicyRich in Vitamin A, C, and dietary fiber.Versatile fruit used in various dishes
+Kiwi #F21# 95.00 #Fruit Weight:200 g # Description:This is a Vegetarian product.Small, brown, and fuzzy exterior with bright green fleshHigh in Vitamin C, K, and E.Distinct sweet and tangy flavor
+Passion Fruit #F22# 78.00 #Fruit Weight:150 g # Description:This is a Vegetarian product.Round or oval shape with wrinkled purple or yellow skinRich in dietary fiber, vitamins A and C.Sweet and aromatic tropical flavor
+Papaya #F23# 65.00 #Fruit Weight:2 kg # Description:This is a Vegetarian product.Orange-fleshed tropical fruit.High in digestive enzymes and Vitamin C.Sweet and musky flavor
+Raspberry #F24# 120.00 #Fruit Weight:150 g # Description:This is a Vegetarian product.Small, red, or black berriesRich in antioxidants and dietary fiber.Sweet and slightly tart taste
+Blueberry #F25# 150.00 #Fruit Weight:125 g # Description:This is a Vegetarian product.Small, round, and blue-purple berriesHigh in antioxidants and Vitamin C.Sweet and juicy flavor
+Pineberry #F26# 200.00 #Fruit Weight:100 g # Description:This is a Vegetarian product.White or pale pink berries with red seedsCombination of pineapple and strawberry flavors.Sweet and refreshing
+Cranberry #F27# 85.00 #Fruit Weight:250 g # Description:This is a Vegetarian product.Small, red, tart berriesRich in antioxidants and Vitamin C.Commonly used in juices and sauces
+Fig #F28# 110.00 #Fruit Weight:200 g # Description:This is a Vegetarian product.Teardrop-shaped fruit with purple or green skin.High in fiber, vitamins, and minerals.Sweet and chewy texture
+Lychee #F29# 140.00 #Fruit Weight:500 g # Description:This is a Vegetarian product.Small, red, or pink fruits with rough skin.Sweet and floral aroma.Juicy and translucent flesh
+Plum #F30# 75.00 #Fruit Weight:300 g # Description:This is a Vegetarian product.Round or oval-shaped fruit with smooth skin.Rich in vitamins and antioxidants.Sweet and tart taste
+Apricot #F31# 92.00 #Fruit Weight:400 g # Description:This is a Vegetarian product.Small, orange fruit with velvety skin.High in Vitamin A and C.Sweet and slightly tart flavor
+Nectarine #F32# 110.00 #Fruit Weight:350 g # Description:This is a Vegetarian product.Smooth-skinned variety of peach.Juicy and sweet with a hint of tanginess
+Gooseberry #F33# 80.00 #Fruit Weight:250 g # Description:This is a Vegetarian product.Small, green, or yellow berries.High in Vitamin C and antioxidants.Tart and slightly sweet taste
+Persimmon #F34# 120.00 #Fruit Weight:350 g # Description:This is a Vegetarian product.Orange or reddish fruit with smooth skin.Rich in fiber, vitamins, and minerals.Sweet and honey-like flavor
+Mulberry #F35# 65.00 #Fruit Weight:200 g # Description:This is a Vegetarian product.Small, dark purple or red berries.High in Vitamin C and antioxidants.Sweet and tangy taste
+Tangerine #F36# 50.00 #Fruit Weight:300 g # Description:This is a Vegetarian product.Small citrus fruit with bright orange skin.Easy to peel and segmented.Sweet and slightly tart flavor
+Jackfruit #F37# 180.00 #Fruit Weight:3 kg # Description:This is a Vegetarian product.Large, green, spiky fruit.Sweet and tropical flavor.Used in both sweet and savory dishes
+Kiwano (Horned Melon) #F38# 150.00 #Fruit Weight:150 g # Description:This is a Vegetarian product.Oval-shaped fruit with spiky orange skin.Bright green, jelly-like interior.Mild and refreshing taste
+Acerola Cherry #F39# 45.00 #Fruit Weight:100 g # Description:This is a Vegetarian product.Small, red or yellow cherries.Extremely high in Vitamin C.Tart and tangy flavor
+Ackee #F40# 98.00 #Fruit Weight:500 g # Description:This is a Vegetarian product.Yellow or red fruit with pear-shaped pods.Commonly used in Caribbean cuisine.Sweet and buttery taste
+Elderberry #F41# 130.00 #Fruit Weight:200 g # Description:This is a Vegetarian product.Small, dark purple or black berries.Rich in antioxidants and immune-boosting properties.Tart and slightly sweet flavor
+Jabuticaba #F42# 160.00 #Fruit Weight:300 g # Description:This is a Vegetarian product.Purple, grape-like berries that grow directly on tree trunks.Sweet and grape-like taste.Used in jams and desserts
+Ugli Fruit #F43# 70.00 #Fruit Weight:250 g # Description:This is a Vegetarian product.Citrus fruit with a wrinkled, greenish-yellow skin.Sweet and tangy flavor.A hybrid of grapefruit, orange, and tangerine
+Persimmon #F44# 90.00 #Fruit Weight:400 g # Description:This is a Vegetarian product.Orange or reddish fruit with smooth skin.Rich in fiber, vitamins, and minerals.Sweet and honey-like flavor
+Salak (Snake Fruit) #F45# 110.00 #Fruit Weight:200 g # Description:This is a Vegetarian product.Brown, scaly skin resembling snake scales.Sweet and tangy flavor.Crunchy texture
+Rambutan #F46# 120.00 #Fruit Weight:250 g # Description:This is a Vegetarian product.Red or yellow fruit with hairy exterior.Sweet and juicy with a mildly acidic taste.Similar to lychee
+Plantain #F47# 55.00 #Fruit Weight:1 kg # Description:This is a Vegetarian product.Large, green or yellow banana variety.Starchy and less sweet than regular bananas.Used in cooking when green, eaten as a sweet fruit when ripe
+Blackberry #F48# 95.00 #Fruit Weight:150 g # Description:This is a Vegetarian product.Small, dark purple or black berries.Rich in antioxidants and dietary fiber.Sweet and slightly tart taste
+Carambola (Star Fruit) #F49# 85.00 #Fruit Weight:200 g # Description:This is a Vegetarian product.Yellow or green fruit with star-shaped cross-section.Crisp and mildly sweet.Used as a garnish or in salads
+Boysenberry #F50# 110.00 #Fruit Weight:200 g # Description:This is a Vegetarian product.Dark purple or blackberry-raspberry hybrid.Sweet and juicy with a hint of tartness.Commonly used in desserts
+Durian #F51# 200.00 #Fruit Weight:2 kg # Description:This is a Vegetarian product.Large, spiky fruit with a strong odor.Creamy, custard-like texture.Distinctive and polarizing taste
+Gooseberry #F52# 80.00 #Fruit Weight:250 g # Description:This is a Vegetarian product.Small, green, or yellow berries.High in Vitamin C and antioxidants.Tart and slightly sweet taste
+Guanabana (Soursop) #F53# 150.00 #Fruit Weight:800 g # Description:This is a Vegetarian product.Large, green fruit with spiky skin.Creamy and fibrous white pulp.Sweet and tangy flavor
+Jujube #F54# 75.00 #Fruit Weight:300 g # Description:This is a Vegetarian product.Small, red or brown fruit with wrinkled skin.Sweet and chewy with a date-like flavor.Rich in Vitamin C and antioxidants
+Buddha's Hand #F55# 180.00 #Fruit Weight:200 g # Description:This is a Vegetarian product.Yellow, finger-like citrus fruit.Fragrant and aromatic.Used for its zest in culinary applications
+Kumquat #F56# 70.00 #Fruit Weight:150 g # Description:This is a Vegetarian product.Small, oval citrus fruit with thin skin.Edible peel and sweet-tart flavor.Commonly used in preserves and desserts
+Quince #F57# 120.00 #Fruit Weight:500 g # Description:This is a Vegetarian product.Golden-yellow fruit with a fragrant aroma.Hard and astringent when raw, soft and sweet when cooked.Used in jams and jellies

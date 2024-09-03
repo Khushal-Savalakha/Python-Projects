@@ -1,0 +1,52 @@
+All-Purpose Flour #Be1# 30 # Weight:1 kg # Baking Essential Product Description:This is a Vegetarian product.Versatile flour suitable for various baking recipesStandard choice for cookies, cakes, and bread
+Granulated Sugar #Be2# 25 # Weight:1 kg # Baking Essential Product Description:This is a Vegetarian product.Common sweetener used in bakingAdds sweetness and moisture to baked goods
+Brown Sugar #Be3# 35 # Weight:500 g # Baking Essential Product Description:This is a Vegetarian product.Sweetener with a rich, caramel flavorUsed in cookies, cakes, and certain breads
+Baking Powder #Be4# 40 # Weight:200 g # Baking Essential Product Description:This is a Vegetarian product.Leavening agent for rising baked goodsEssential for light and fluffy cakes and muffins
+Baking Soda #Be5# 30 # Weight:250 g # Baking Essential Product Description:This is a Vegetarian product.Leavening agent that reacts with acidic ingredientsUsed in recipes for cookies, cakes, and quick breads
+Vanilla Extract #Be6# 50 # Volume:50 ml # Baking Essential Product Description:This is a Vegetarian product.Flavoring made from vanillaBeansEnhances the taste of cakes, cookies, and desserts
+Chocolate Chips #Be7# 60 # Weight:300 g # Baking Essential Product Description:This is a Vegetarian product.Sweetened chocolate morselsUsed in cookies, brownies, and other baked treats
+Cocoa Powder #Be8# 45 # Weight:250 g # Baking Essential Product Description:This is a Vegetarian product.Powdered form of cocoaBeansAdds rich chocolate flavor to cakes, cookies, and drinks
+Butter #Be9# 70 # Weight:250 g # Baking Essential Product Description:This is a Vegetarian product.Dairy product used for flavor and moistureCommonly used in cakes, cookies, and pastries
+Eggs #Be10# 40 # Quantity:12 # Baking Essential Product Description:This is a Non-Vegetarian product.Protein-rich ingredient providing structure and moistureEssential in most baking recipes
+Milk #Be11# 25 # Volume:1 liter # Baking Essential Product Description:This is a Vegetarian product.Dairy liquid used for moisture and flavorCommonly used in cakes, muffins, and pancakes
+Salt #Be12# 15 # Weight:500 g # Baking Essential Product Description:This is a Vegetarian product.Enhances flavors and balances sweetnessUsed in small amounts in most baking recipes
+Yeast #Be13# 10 # Weight:7 g (packet) # Baking Essential Product Description:This is a Vegetarian product.Microorganisms for leavening breadUsed in recipes for bread and rolls
+Shortening #Be14# 40 # Weight:250 g # Baking Essential Product Description:This is a Vegetarian product.Solid fat used in baking for flakinessCommonly used in pie crusts and certain cookies
+Confectioners' Sugar #Be15# 35 # Weight:500 g # Baking Essential Product Description:This is a Vegetarian product.Powdered sugar for frosting and dustingUsed in icing, glazes, and decorating
+Cornstarch #Be16# 20 # Weight:200 g # Baking Essential Product Description:This is a Vegetarian product.Starch used as a thickening agentCommonly used in pie fillings and custards
+Cream of Tartar #Be17# 25 # Weight:100 g # Baking Essential Product Description:This is a Vegetarian product.Acidic powder used in stabilizing egg whitesCommonly used in meringues and angel food cake
+Almond Extract #Be18# 55 # Volume:30 ml # Baking Essential Product Description:This is a Vegetarian product.Flavoring made from almondsAdds a nutty taste to cookies, cakes, and frostings
+Lemon Zest #Be19# 30 # Weight:50 g # Baking Essential Product Description:This is a Vegetarian product.Grated outer peel of lemonsAdds citrus flavor to cakes, cookies, and desserts
+Nuts (Assorted) #Be20# 80 # Weight:200 g # Baking Essential Product Description:This is a Vegetarian product.Variety of chopped nuts for textureUsed in cookies, brownies, and cakes
+Dried Fruits (Assorted) #Be21# 40 # Weight:150 g # Baking Essential Product Description:This is a Vegetarian product.Mixed dried fruits for sweetness and textureUsed in fruitcakes, cookies, and scones
+Pie Filling (Assorted) #Be22# 60 # Volume:500 g # Baking Essential Product Description:This is a Vegetarian product.Canned fruit fillings for piesConvenient for making quick and delicious pies
+Pumpkin Puree #Be23# 35 # Weight:400 g # Baking Essential Product Description:This is a Vegetarian product.Pureed pumpkin for pies and muffinsAdds moisture and flavor to baked goods
+Honey #Be24# 90 # Volume:500 g # Baking Essential Product Description:This is a Vegetarian product.Natural sweetener with a rich tasteUsed in cakes, cookies, and as a glaze
+Maple Syrup #Be25# 75 # Volume:250 ml # Baking Essential Product Description:This is a Vegetarian product.Sweet syrup made from maple treesUsed in pancakes, waffles, and as a topping
+Molasses #Be26# 55 # Volume:300 ml # Baking Essential Product Description:This is a Vegetarian product.Thick, dark syrup with a robust flavorUsed in gingerbread, cookies, and bakedBeans
+Jam/Jelly #Be27# 30 # Weight:250 g # Baking Essential Product Description:This is a Vegetarian product.Fruit preserves for fillings and toppingsUsed in thumbprint cookies and pastries
+Peanut Butter #Be28# 50 # Weight:400 g # Baking Essential Product Description:This is a Vegetarian product.Creamy or crunchy spread made from peanutsUsed in cookies, brownies, and bars
+Cream Cheese #Be29# 60 # Weight:200 g # Baking Essential Product Description:This is a Vegetarian product.Soft cheese used in frostings and fillingsCommonly used in cheesecakes and pastries
+Marshmallows #Be30# 40 # Weight:200 g # Baking Essential Product Description:This is a Vegetarian product.Soft, sweet confection for s'mores and treatsUsed in cookies, brownies, and rice krispie treats
+Food Coloring (Assorted) #Be31 # 15 # Volume:20 ml # Baking Essential Product Description:This is a Vegetarian product.Liquid coloring for vibrant dessertsUsed in frostings, cake batter, and cookies
+Sprinkles #Be32# 20 # Weight:100 g # Baking Essential Product Description:This is a Vegetarian product.Colorful decorations for dessertsUsed on cupcakes, cookies, and ice cream
+Parchment Paper #Be33# 20 # Length:10 meters # Baking Essential Product Description:This is a Vegetarian product.Non-stick paper for baking sheetsPrevents sticking and facilitates easy cleanup
+Baking Cups (Assorted) #Be34 # 25 # Quantity:100 # Baking Essential Product Description:This is a Vegetarian product.Paper cups for muffins and cupcakesConvenient for portion control and presentation
+Rolling Pin #Be35# 30 # Length:40 cm # Baking Essential Product Description:This is a Vegetarian product.Tool for rolling out doughUsed in making pie crusts, cookies, and pastries
+Pastry Brush #Be36# 15 # Length:25 cm # Baking Essential Product Description:This is a Vegetarian product.Brush for applying egg wash or melted butterUsed for browning and adding shine
+Mixing Bowls (Set of 3) #Be37# 40 # Capacity:1.5 liters, 3 liters, 5 liters # Baking Essential Product Description:This is a Vegetarian product.Various sizes for mixing ingredientsConvenient for preparing batter and dough
+Electric Mixer #Be38# 150 # Power:300 watts # Baking Essential Product Description:This is a Vegetarian product.Appliance for mixing batter and doughSaves time and effort in the baking process
+Measuring Cups and Spoons Set #Be39 # 25 # Quantity:8 pieces # Baking Essential Product Description:This is a Vegetarian product.Tools for accurate measurement of ingredientsEssential for precision in baking
+Oven Thermometer #Be40# 15 # Type:Analog # Baking Essential Product Description:This is a Vegetarian product.Instrument for monitoring oven temperatureEnsures accurate baking results
+Cooling Rack #Be41# 20 # Size:30 cm x 40 cm # Baking Essential Product Description:This is a Vegetarian product.Wire rack for cooling baked goodsPrevents condensation and maintains texture
+Pastry Cutter #Be42# 18 # Length:15 cm # Baking Essential Product Description:This is a Vegetarian product.Tool for cutting butter into flourUsed in making pie crusts and biscuits
+Cake Pans (Assorted) #Be43# 30 # Size:8 inches, 9 inches # Baking Essential Product Description:This is a Vegetarian product.Various sizes for baking cakesNon-stick pans for easy removal
+Muffin Tin #Be44# 25 # Size:12 cups # Baking Essential Product Description:This is a Vegetarian product.Tin for baking muffins and cupcakesProvides uniform shape and size
+Cookie Sheets (Set of 2) #Be45# 35 # Size:15 inches x 10 inches # Baking Essential Product Description:This is a Vegetarian product.Baking sheets for cookies and barsNon-stick surface for easy release
+Cake Decorating Kit #Be46# 50 # Pieces:20 # Baking Essential Product Description:This is a Vegetarian product.Assorted tools for decorating cakesIncludes piping bags, tips, and fondant tools
+Cupcake Liners (Assorted) #Be47# 15 # Quantity:100 # Baking Essential Product Description:This is a Vegetarian product.Paper liners for cupcakes and muffinsAdds a decorative touch to baked goods
+Pastry Bag #Be48# 12 # Size:30 cm # Baking Essential Product Description:This is a Vegetarian product.Reusable bag for piping frostingUsed in cake decorating and cookie filling
+Cake Stand #Be49# 40 # Diameter:25 cm # Baking Essential Product Description:This is a Vegetarian product.Elevated platform for presenting cakesEnhances the visual appeal of desserts
+Baking Books (Assorted) #Be50# Price Range:25 - 50 # Baking Essential Product Description:This is a Vegetarian product.Recipe books for inspiration and guidanceIncludes a variety of baking techniques and tips
+
+

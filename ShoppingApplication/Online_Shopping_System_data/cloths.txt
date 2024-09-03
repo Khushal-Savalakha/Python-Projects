@@ -1,0 +1,32 @@
+A-Line Dress #C1# 28.00 # SizeS #Clothe Color:Navy Floral # Description:This is a Vegetarian product.Flattering A-line dress with a floral patternIdeal for semi-formal gatherings
+Cotton T-Shirt #C2# 15.00 # SizeM #Clothe Color:White # Description:This is a Vegetarian product.Classic cotton t-shirt for casual wearComfortable and breathable fabric
+Denim Jeans #C3# 30.00 # Size32 #Clothe Color:Blue # Description:This is a Vegetarian product.Stylish denim jeans for a trendy lookDurable and comfortable for daily wear
+Formal Shirt #C4# 25.00 # SizeL #Clothe Color:Light Blue # Description:This is a Vegetarian product.Formal shirt for professional occasionsCrisp and well-fitted design
+Casual Chinos #C5# 28.00 # Size34 #Clothe Color:Khaki # Description:This is a Vegetarian product.Comfortable chinos for a relaxed styleVersatile and easy to pair with different tops
+Sundress #C6# 20.00 # SizeS #Clothe Color:Floral Print # Description:This is a Vegetarian product.Light and airy sundress for a feminine lookPerfect for warm weather and casual events
+Hooded Sweatshirt #C7# 35.00 # SizeXL #Clothe Color:Gray # Description:This is a Vegetarian product.Warm and cozy hooded sweatshirt for chilly daysStylish and functional
+Maxi Skirt #C8# 22.00 # SizeM #Clothe Color:Black # Description:This is a Vegetarian product.Flowy maxi skirt for a bohemian vibeComfortable and suitable for various occasions
+Tailored Blazer #C9# 45.00 # Size38 #Clothe Color:Navy Blue # Description:This is a Vegetarian product.Structured blazer for a polished and professional lookPerfect for formal events
+Track Pants #C10# 18.00 # Size30 #Clothe Color:Black # Description:This is a Vegetarian product.Comfortable track pants for casual and sporty occasionsElastic waistband for a secure fit
+Polo Shirt #C11# 20.00 # SizeM #Clothe Color:Red # Description:This is a Vegetarian product.Classic polo shirt for a sporty yet polished appearanceBreathable fabric for all-day comfort
+Slim Fit Suit #C12# 60.00 # Size40 #Clothe Color:Charcoal Gray # Description:This is a Vegetarian product.Modern slim-fit suit for a sharp and contemporary lookIncludes jacket and trousers
+Casual Shorts #C13# 15.00 # Size32 #Clothe Color:Beige # Description:This is a Vegetarian product.Casual shorts for a laid-back stylePerfect for warm weather and outdoor activities
+Sleeveless Blouse #C14# 18.00 # SizeM #Clothe Color:Blush Pink # Description:This is a Vegetarian product.Chic sleeveless blouse for a feminine touchPairs well with skirts and trousers
+Cargo Pants #C15# 25.00 # Size34 #Clothe Color:Olive Green # Description:This is a Vegetarian product.Functional cargo pants with multiple pocketsDurable and versatile
+Shift Dress #C16# 30.00 # SizeS #Clothe Color:Black and White Stripes # Description:This is a Vegetarian product.Timeless shift dress with a striped patternEffortlessly stylish for various occasions
+V-Neck Sweater #C17# 28.00 # SizeL #Clothe Color:Navy Blue # Description:This is a Vegetarian product.Classic V-neck sweater for a smart-casual lookSoft and warm for cooler days
+Wide-Leg Trousers #C18# 35.00 # Size36 #Clothe Color:Gray # Description:This is a Vegetarian product.Fashionable wide-leg trousers for a trendy silhouetteComfortable and stylish
+Ruffled Blouse #C19# 22.00 # SizeS #Clothe Color:Ivory # Description:This is a Vegetarian product.Elegant ruffled blouse for a sophisticated appearancePairs well with skirts and trousers
+Cropped Jeans #C20# 20.00 # Size28 #Clothe Color:Medium Wash # Description:This is a Vegetarian product.On-trend cropped jeans for a stylish lookVersatile and perfect for casual outings
+Pleated Midi Skirt #C21# 25.00 # SizeM #Clothe Color:Burgundy # Description:This is a Vegetarian product.Graceful pleated midi skirt for a feminine touchPairs well with blouses and sweaters
+Cowl Neck Sweater #C22# 32.00 # SizeXL #Clothe Color:Forest Green # Description:This is a Vegetarian product.Cozy cowl neck sweater for a chic winter lookWarm and fashionable
+Printed Palazzo Pants #C23# 28.00 # Size32 #Clothe Color:Abstract Print # Description:This is a Vegetarian product.Stylish printed palazzo pants for a boho-chic vibeComfortable and eye-catching
+Button-Up Shirt Dress #C24# 30.00 # SizeS #Clothe Color:Denim Blue # Description:This is a Vegetarian product.Versatile button-up shirt dress for a casual yet polished stylePairs well with accessories
+Turtleneck Top #C25# 22.00 # SizeM #Clothe Color:Camel # Description:This is a Vegetarian product.Classic turtleneck top for a timeless and cozy lookIdeal for layering
+Ankle-Length Leggings #C26# 15.00 # SizeS #Clothe Color:Black # Description:This is a Vegetarian product.Stretchy ankle-length leggings for comfort and stylePerfect for casual or athletic wear
+Off-Shoulder Blouse #C27# 25.00 # SizeM #Clothe Color:Royal Blue # Description:This is a Vegetarian product.Chic off-shoulder blouse for a trendy and feminine lookPairs well with skirts or jeans
+Tweed Jacket #C28# 40.00 # SizeL #Clothe Color:Black and White # Description:This is a Vegetarian product.Elegant tweed jacket for a sophisticated appearancePerfect for formal or semi-formal occasions
+Flared Sleeve Top #C29# 18.00 # SizeS #Clothe Color:Mustard Yellow # Description:This is a Vegetarian product.Stylish top with flared sleeves for a bohemian touchPairs well with jeans or skirts
+Cropped Hoodie #C30# 25.00 # SizeXL #Clothe Color:Pastel Pink # Description:This is a Vegetarian product.Trendy cropped hoodie for a casual and cool stylePerfect for a sporty look
+Midi Wrap Dress #C31# 35.00 # SizeM #Clothe Color:Burgundy # Description:This is a Vegetarian product.Flattering midi wrap dress for a feminine silhouetteSuitable for various occasions
+High-Waisted Shorts #C32# 20.00 # Size30 #Clothe Color:Navy Blue # Description:This is a Vegetarian product.High-waisted shorts

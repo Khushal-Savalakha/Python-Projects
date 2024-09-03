@@ -1,0 +1,38 @@
+Massage Oil #Pc1# 15.00 # Volume:200 ml # Personal Care Product Description:This is a Vegetarian product.Relaxing massage oil for a calming experienceNourishes the skin and promotes relaxation
+Shampoo #Pc2# 20.00 # Volume:300 ml # Personal Care Product Description:This is a Vegetarian product.Cleanses and nourishes the hairLeaves hair soft and manageable
+Conditioner #Pc3# 18.00 # Volume:250 ml # Personal Care Product Description:This is a Vegetarian product.Moisturizes and detangles hairPromotes a smooth and shiny finish
+Body Wash #Pc4# 15.00 # Volume:400 ml # Personal Care Product Description:This is a Vegetarian product.Refreshing shower gel for clean and hydrated skinMild and pleasant fragrance
+Hand Soap #Pc5# 10.00 # Volume:250 ml # Personal Care Product Description:This is a Vegetarian product.Gentle hand soap for daily hand hygieneLeaves hands clean and refreshed
+Toothpaste #Pc6# 8.00 # Weight:150 g # Personal Care Product Description:This is a Vegetarian product.Fluoride toothpaste for strong teethPromotes fresh breath and oral hygiene
+Toothbrush #Pc7# 5.00 # Personal Care Product Description:This is a Vegetarian product.Soft-bristle toothbrush for effective cleaningComfortable grip for easy brushing
+Deodorant #Pc8# 12.00 # Volume:50 ml # Personal Care Product Description:This is a Vegetarian product.Long-lasting deodorant for all-day freshnessSubtle fragrance for men and women
+Shaving Cream #Pc9# 15.00 # Volume:150 g # Personal Care Product Description:This is a Vegetarian product.Rich lather for a smooth shaving experienceMoisturizes and protects the skin
+Aftershave Lotion #Pc10# 18.00 # Volume:100 ml # Personal Care Product Description:This is a Vegetarian product.Soothing aftershave lotion for post-shave careReduces irritation and hydrates the skin
+Body Lotion #Pc11# 12.00 # Volume:200 ml # Personal Care Product Description:This is a Vegetarian product.Hydrating body lotion for soft and supple skinQuick-absorbing and non-greasy
+Face Wash #Pc12# 10.00 # Volume:150 ml # Personal Care Product Description:This is a Vegetarian product.Gentle face wash for daily cleansingRemoves dirt and oil without over-drying
+Face Scrub #Pc13# 12.00 # Weight:100 g # Personal Care Product Description:This is a Vegetarian product.Exfoliating face scrub for smoother skinRemoves dead skin cells and unclogs pores
+Facial Toner #Pc14# 15.00 # Volume:120 ml # Personal Care Product Description:This is a Vegetarian product.Balancing facial toner for refreshed skinPrepares skin for moisturization
+Makeup Remover #Pc15# 10.00 # Volume:100 ml # Personal Care Product Description:This is a Vegetarian product.Gentle makeup remover for effective cleansingLeaves skin clean and makeup-free
+Hand Sanitizer #Pc16# 5.00 # Volume:50 ml # Personal Care Product Description:This is a Vegetarian product.Alcohol-based hand sanitizer for on-the-go useKills germs and bacteria
+Sunscreen Lotion #Pc17# 20.00 # Volume:100 ml # Personal Care Product Description:This is a Vegetarian product.Broad-spectrum sunscreen for sun protectionNon-greasy formula for daily use
+Lip Balm #Pc18# 3.00 # Weight:4.5 g # Personal Care Product Description:This is a Vegetarian product.Moisturizing lip balm for soft and smooth lipsInfused with natural extracts
+Hair Gel #Pc19# 10.00 # Volume:150 ml # Personal Care Product Description:This is a Vegetarian product.Styling hair gel for a sleek and defined lookEasy to apply and non-sticky
+Hair Serum #Pc20# 12.00 # Volume:50 ml # Personal Care Product Description:This is a Vegetarian product.Nourishing hair serum for frizz controlAdds shine and promotes hair health
+Body Scrub #Pc21# 18.00 # Weight:200 g # Personal Care Product Description:This is a Vegetarian product.Invigorating body scrub for smooth skinExfoliates and revitalizes the skin
+Nail Polish Remover #Pc22# 5.00 # Volume:100 ml # Personal Care Product Description:This is a Vegetarian product.Efficient nail polish remover for clean nailsAcetone-free and gentle on nails
+Hand Cream #Pc23# 8.00 # Volume:75 ml # Personal Care Product Description:This is a Vegetarian product.Moisturizing hand cream for soft and hydrated handsNon-greasy formula for quick absorption
+Foot Cream #Pc24# 10.00 # Volume:100 ml # Personal Care Product Description:This is a Vegetarian product.Revitalizing foot cream for tired feetSoothes and hydrates dry skin
+Bath Bombs (Set of 4) #Pc25# 15.00 # Personal Care Product Description:This is a Vegetarian product.Fizzy bath bombs for a luxurious bath experienceInfused with essential oils
+Hair Dye (Natural Black) #Pc26# 15.00 # Weight:50 g # Personal Care Product Description:This is a Vegetarian product.Natural black hair dye for at-home coloringEnriched with herbal extracts
+Hair Mask #Pc27# 12.00 # Volume:200 ml # Personal Care Product Description:This is a Vegetarian product.Deep conditioning hair mask for nourished locksRepairs and strengthens hair
+Perfume #Pc28# 25.00 # Volume:50 ml # Personal Care Product Description:This is a Vegetarian product.Fragrant perfume for a long-lasting scentIdeal for daily wear
+Cleansing Wipes (Pack of 25) #Pc29# 8.00 # Personal Care Product Description:This is a Vegetarian product.Convenient cleansing wipes for face and handsPerfect for on-the-go use
+Anti-Aging Cream #Pc30# 20.00 # Volume:50 g # Personal Care Product Description:This is a Vegetarian product.Anti-aging cream for reducing fine linesHydrates and improves skin elasticity
+Facial Mask (Clay) #Pc31# 15.00 # Weight:100 g # Personal Care Product Description:This is a Vegetarian product.Purifying clay mask for deep cleansingDraws out impurities and excess oil
+Insect Repellent Lotion #Pc32# 10.00 # Volume:100 ml # Personal Care Product Description:This is a Vegetarian product.Lotion with insect repellent propertiesProtects against mosquitoes and bugs
+Aloe Vera Gel #Pc33# 8.00 # Volume:150 ml # Personal Care Product Description:This is a Vegetarian product.Soothing aloe vera gel for skin hydrationRelieves sunburn and irritation
+Vitamin C Serum #Pc34# 18.00 # Volume:30 ml # Personal Care Product Description:This is a Vegetarian product.Brightening vitamin C serum for radiant skinReduces dark spots and evens skin tone
+Foot Scrub #Pc35# 10.00 # Weight:75 g # Personal Care Product Description:This is a Vegetarian product.Exfoliating foot scrub for smooth feetRemoves dead skin and calluses
+Hair Mousse #Pc36# 12.00 # Volume:200 ml # Personal Care Product Description:This is a Vegetarian product.Volumizing hair mousse for a lifted lookEasy to apply and provides long-lasting hold.
+Cuticle Oil #Pc37# 5.00 # Volume:10 ml # Personal Care Product Description:This is a Vegetarian oil. It is made from the finest organic ing.
+

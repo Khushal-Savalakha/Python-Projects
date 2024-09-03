@@ -1,0 +1,34 @@
+Glass Cleaner #Cs3# 12.00 # Volume:750 ml # Cleaning Supplies Description:This is a Vegetarian product.Streak-free glass cleaner for clear surfacesRemoves fingerprints and dirt
+Floor Cleaner #Cs4# 15.00 # Volume:1 L # Cleaning Supplies Description:This is a Vegetarian product.Effective floor cleaner for various floor typesLeaves a fresh and clean scent
+Toilet Bowl Cleaner #Cs5# 8.00 # Volume:500 ml # Cleaning Supplies Description:This is a Vegetarian product.Powerful toilet bowl cleaner for a hygienic bathroomRemoves stains and prevents odors
+Bathroom Cleaner Spray #Cs6# 10.00 # Volume:400 ml # Cleaning Supplies Description:This is a Vegetarian product.Spray for cleaning bathroom surfaces and fixturesDisinfects and leaves a pleasant fragrance
+Sponge Scrub (Pack of 3) #Cs7# 6.00 # Cleaning Supplies Description:This is a Vegetarian product.Durable sponge scrub for kitchen and bathroom cleaningCleans surfaces effectively
+Dishwashing Liquid #Cs8# 7.00 # Volume:500 ml # Cleaning Supplies Description:This is a Vegetarian product.Gentle dishwashing liquid for clean and spotless dishesCuts through grease and food residue
+Trash Bags (Pack of 50) #Cs9# 10.00 # Cleaning Supplies Description:This is a Vegetarian product.Durable trash bags for waste disposalTie-and-toss design for easy closure
+Broom #Cs10# 12.00 # Cleaning Supplies Description:This is a Vegetarian product.Sturdy broom for sweeping floors and surfacesEffective in picking up dirt and debris
+Dustpan #Cs11# 5.00 # Cleaning Supplies Description:This is a Vegetarian product.Handy dustpan for collecting swept dirt and debrisErgonomic design for easy use
+Mop #Cs12# 15.00 # Cleaning Supplies Description:This is a Vegetarian product.Efficient mop for cleaning floors with easeReusable and washable mop head
+Laundry Detergent #Cs13# 18.00 # Volume:1 kg # Cleaning Supplies Description:This is a Vegetarian product.Effective laundry detergent for clean and fresh clothesSuitable for machine and hand wash
+Fabric Softener #Cs14# 8.00 # Volume:500 ml # Cleaning Supplies Description:This is a Vegetarian product.Softens fabrics and reduces static clingAdds a pleasant fragrance to clothes
+Stain Remover Spray #Cs15# 10.00 # Volume:200 ml # Cleaning Supplies Description:This is a Vegetarian product.Spray for removing tough stains from fabricsPre-treats stains for easy washing
+Carpet Cleaner Powder #Cs16# 12.00 # Weight:500 g # Cleaning Supplies Description:This is a Vegetarian product.Powder for deep cleaning carpets and rugsEliminates odors and refreshes fibers
+Air Freshener Spray #Cs17# 5.00 # Volume:250 ml # Cleaning Supplies Description:This is a Vegetarian product.Fragrant air freshener for a pleasant atmosphereInstantly neutralizes odors
+Microfiber Cleaning Cloth (Pack of 5) #Cs18# 8.00 # Cleaning Supplies Description:This is a Vegetarian product.Lint-free microfiber cloths for versatile cleaningAbsorbs and traps dust and dirt
+Stainless Steel Cleaner #Cs19# 10.00 # Volume:300 ml # Cleaning Supplies Description:This is a Vegetarian product.Specialized cleaner for stainless steel surfacesLeaves a streak-free shine
+Oven Cleaner Spray #Cs20# 12.00 # Volume:400 ml # Cleaning Supplies Description:This is a Vegetarian product.Powerful spray for cleaning ovens and grillsRemoves baked-on grease and residue
+Dishwasher Detergent Tablets (Pack of 30) #Cs21# 15.00 # Cleaning Supplies Description:This is a Vegetarian product.Convenient detergent tablets for dishwasher useEffectively cleans dishes and utensils
+Drain Cleaner Gel #Cs22# 8.00 # Volume:250 ml # Cleaning Supplies Description:This is a Vegetarian product.Gel formula for clearing clogged drainsBreaks down grease, hair, and debris
+Multi-Surface Wipes (Pack of 40) #Cs23# 9.00 # Cleaning Supplies Description:This is a Vegetarian product.Wipes for quick cleaning of various surfacesConvenient and disposable
+Wood Polish Spray #Cs24# 10.00 # Volume:200 ml # Cleaning Supplies Description:This is a Vegetarian product.Polish spray for wooden furniture and surfacesEnhances shine and protects against dust
+Graffiti Remover #Cs25# 12.00 # Volume:150 ml # Cleaning Supplies Description:This is a Vegetarian product.Specialized remover for graffiti on surfacesSafe for use on various materials
+Rust Stain Remover #Cs26# 10.00 # Volume:200 ml # Cleaning Supplies Description:This is a Vegetarian product.Effective remover for rust stains on surfacesRestores the original appearance
+Barbecue Grill Cleaner Spray #Cs27# 12.00 # Volume:300 ml # Cleaning Supplies Description:This is a Vegetarian product.Spray for cleaning barbecue grills and gratesRemoves grease and burnt-on residue
+Washing Machine Cleaner Tablets (Pack of 10) #Cs28# 10.00 # Cleaning Supplies Description:This is a Vegetarian product.Tablets for cleaning and descaling washing machinesMaintains machine performance
+Antibacterial Hand Soap #Cs29# 6.00 # Volume:250 ml # Cleaning Supplies Description:This is a Vegetarian product.Antibacterial soap for effective hand hygieneGentle on the skin
+Leather Cleaner and Conditioner #Cs30# 12.00 # Volume:150 ml # Cleaning Supplies Description:This is a Vegetarian product.Cleans and conditions leather surfacesPreserves and protects against aging
+Car Wash Shampoo #Cs31# 10.00 # Volume:500 ml # Cleaning Supplies Description:This is a Vegetarian product.Shampoo for effective car washing and cleaningLeaves a shiny and spotless finish
+Duster #Cs32# 7.00 # Cleaning Supplies Description:This is a Vegetarian product.Feather duster for dusting surfaces and delicate itemsLightweight and easy to use
+Gloves (Pair) #Cs33# 3.00 # Cleaning Supplies Description:This is a Vegetarian product.Protective gloves for cleaning and household tasksDurable and comfortable to wear
+Trash Can #Cs34# 15.00 # Volume:10 L # Cleaning Supplies Description:This is a Vegetarian product.Sturdy trash can for waste disposalLid keeps odors contained
+Carpet Stain Remover Spray #Cs35# 12.00 # Volume:300 ml # Cleaning Supplies Description:This is a Vegetarian product.Spray for removing stains from carpets and upholsterySafe for various fabrics
+Lint Roller #Cs36# 5.00 # Cleaning Supplies Description:This is a Vegetarian product.Roller for removing lint, pet hair.

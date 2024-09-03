@@ -1,0 +1,27 @@
+Whirlpool #W1# 14890 # WHITEMAGIC ROYAL 7.0 GENX # Washing machine Capacity:6 Kg # RPM:740 # Grey # product specification:product Dimensions:56Dx54Wx87W,Energy Efficiency:5 Star,Voltage:200V
+Samsung #W2# 19990.67 # WA80BG4441BGTL # Washing machine Capacity:7 Kg # RPM:700 # Light Gray # product specification:product Dimensions:56Dx54Wx87W,Energy Efficiency:5 Star,Voltage:200V
+LG #W3# 18490 # FHT1207SWL # Washing machine Capacity:7 Kg # RPM:1200 #White # Product Specifications:Dimensions: 60Dx55Wx85H,Energy Efficiency: 4 Star,Voltage: 220V
+Bosch #W4# 21990 #WAK24268IN # Washing machine Capacity:8 Kg # RPM:1200 # Silver # Product Specifications:Dimensions: 62Dx59Wx85H,Energy Efficiency: 4 Star,Voltage: 230V
+Haier #W5# 12990 # HWM60-10 # Washing machine Capacity:6 Kg # RPM:800 # Blue # Product Specifications:Dimensions: 55Dx50Wx80H,Energy Efficiency: 3 Star,Voltage: 210V
+Panasonic #W6# 15490 # NA-F62A7CRB # Washing machine Capacity:6.2 Kg # RPM:800 # Red # Product Specifications:Dimensions: 58Dx53Wx84H,Energy Efficiency: 4 Star,Voltage: 220V
+IFB #W7# 16990 # Diva Aqua VX # Washing machine Capacity:6.5 Kg # RPM:800 # Champagne Gold # Product Specifications:Dimensions: 57Dx55Wx83H,Energy Efficiency: 5 Star,Voltage: 200V
+Electrolux #W8# 14290 # EF60ERWH # Washing machine Capacity:6 Kg # RPM:700 # PearlWhite # Product Specification:Dimensions: 55Dx52Wx88H,Energy Efficiency: 3 Star,Voltage: 210V
+Godrej #W9# 17590 #WS EDGE PRO 700 # Washing machine Capacity:7 Kg # RPM:750 # Silver Grey # Product Specifications:Dimensions: 60Dx58Wx82H,Energy Efficiency: 4 Star,Voltage: 220V
+Midea #W10# 16490 # MWMTL070MWO # Washing machine Capacity:7 Kg # RPM:700 # Midnight Blue # Product Specifications:Dimensions: 56Dx55Wx84H,Energy Efficiency: 3 Star,Voltage: 210V
+Onida #W11# 13790 #WOF5508NW # Washing machine Capacity:5.5 Kg # RPM:800 # Ivory # Product Specifications:Dimensions: 54Dx50Wx81H,Energy Efficiency: 4 Star,Voltage: 200V
+Toshiba #W12# 20290 # AW-J800A-IND # Washing machine Capacity:8 Kg # RPM:1200 # Metallic Silver # Product Specifications:Dimensions: 61Dx57Wx86H,Energy Efficiency: 5 Star,Voltage: 230V
+Samsung #W13# 23490.23 #WW80J4243MW/TL # Washing machine Capacity:8 Kg # RPM:1400 # CrystalWhite # Product Specifications:Dimensions: 63Dx60Wx85H,Energy Efficiency: 5 Star,Voltage: 240V
+Whirlpool #W14# 19990 # STAINWASH PRO 7.5 # Washing machine Capacity:7.5 Kg # RPM:1000 # Graphite # Product Specifications:Dimensions: 59Dx56Wx88H,Energy Efficiency: 4 Star,Voltage: 220V
+Sharp #W15# 25890 # ES-HFH914AW3-EN # Washing machine Capacity:9 Kg # RPM:1200 # ArcticWhite # Product Specifications:Dimensions: 64Dx58Wx87H,Energy Efficiency: 4 Star,Voltage: 230V
+Croma #W16# 14790 # CRAR2024 # Washing machine Capacity:6.5 Kg # RPM:850 # Charcoal Grey # Product Specifications:Dimensions: 55Dx53Wx82H,Energy Efficiency: 3 Star,Voltage: 210V
+Kenmore #W17# 22490 # 41782 # Washing machine Capacity:8.8 Kg # RPM:1100 # Onyx # Product Specifications:Dimensions: 62Dx60Wx89H,Energy Efficiency: 5 Star,Voltage: 240V
+Sansui #W18# 16990 # SW70PXX01DGQ # Washing machine Capacity:7 Kg # RPM:900 # Dark Quartz # Product Specifications:Dimensions: 58Dx55Wx84H,Energy Efficiency: 3 Star,Voltage: 220V
+Akai #W19# 15290 # XQB60-C6288 # Washing machine Capacity:6 Kg # RPM:800 # Rose Gold # Product Specifications:Dimensions: 56Dx52Wx81H,Energy Efficiency: 4 Star,Voltage: 210V
+Lloyd #W20# 18790 # LWMF70B # Washing machine Capacity:7 Kg # RPM:1000 # Sapphire Blue # Product Specifications:Dimensions: 60Dx57Wx85H,Energy Efficiency: 4 Star,Voltage: 220V
+Mitashi #W21# 17490 # MiWM75v15 # Washing machine Capacity:7.5 Kg # RPM:850 # Granite Grey # Product Specifications:Dimensions: 59Dx55Wx84H,Energy Efficiency: 3 Star,Voltage: 210V
+Sanyo #W22# 19290 # SWM-ESRW70Y1 # Washing machine Capacity:7 Kg # RPM:950 # Champagne Pink # Product Specifications:Dimensions: 61Dx56Wx83H,Energy Efficiency: 4 Star,Voltage: 220V
+LG #W23# 21990 # FH2G6TDNL42 # Washing machine Capacity:8 Kg # RPM:1200 # Silver # Product Specifications:Dimensions: 62Dx60Wx85H,Energy Efficiency: 5 Star,Voltage: 230V
+Samsung #W24# 14490 #WA62M4100HY/TL # Washing machine Capacity:6.2 Kg # RPM:700 # Imperial Silver # Product Specifications:Dimensions: 54Dx54Wx90H,Energy Efficiency: 3 Star,Voltage: 220V
+Whirlpool #W25# 19990 # 360° BLOOMWASH ULTRA # Washing machine Capacity:7 Kg # RPM:740 # Graphite # Product Specifications:Dimensions: 59Dx57Wx87H,Energy Efficiency: 5 Star,Voltage: 220V
+IFB #W26# 23490 # Senator Aqua SX # Washing machine Capacity:8 Kg # RPM:1400 # Silver # Product Specifications:Dimensions: 62Dx59Wx85H,Energy Efficiency: 5 Star,Voltage: 230V
+Bosch #W27# 24990 #WAT2846SIN # Washing machine Capacity:8 Kg # RPM:1400 # Silver # Product Specifications:Dimensions: 62Dx60Wx85H,Energy Efficiency: 5 Star,Voltage: 230V

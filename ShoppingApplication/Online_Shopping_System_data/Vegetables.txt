@@ -1,0 +1,69 @@
+Potato #V1# 25.00 #Vegetable Weight:1 kg # Description:This is a Vegetarian product.Versatile vegetable used in various dishesGood source of carbohydrates and dietary fiber
+Onion #V2# 18.00 #Vegetable Weight:500 g # Description:This is a Vegetarian product.Essential for flavoring many Indian dishesRich in antioxidants and anti-inflammatory properties
+Tomato #V3# 30.00 #Vegetable Weight:1 kg # Description:This is a Vegetarian product.Used in curries, sauces, and saladsExcellent source of vitamins A and C
+Spinach #V4# 20.00 #Vegetable Weight:500 g # Description:This is a Vegetarian product.Nutrient-rich leafy green vegetableHigh in iron, vitamins A and K
+Cauliflower #V5# 40.00 #Vegetable Weight:1 kg # Description:This is a Vegetarian product.Versatile vegetable used in curries and stir-friesRich in vitamins C and K
+Brinjal (Eggplant) #V6# 25.00 #Vegetable Weight:500 g # Description:This is a Vegetarian product.Commonly used in Indian curriesLow in calories and high in fiber
+Capsicum (Bell Pepper) #V7# 35.00 #Vegetable Weight:250 g # Description:This is a Vegetarian product.Colorful and crunchy vegetableRich in vitamin C and antioxidants
+Carrot #V8# 28.00 #Vegetable Weight:1 kg # Description:This is a Vegetarian product.Sweet and crunchy root vegetableExcellent source of beta-carotene
+Cabbage #V9# 15.00 #Vegetable Weight:500 g # Description:This is a Vegetarian product.Used in salads, coleslaw, and Indian dishesLow in calories and high in fiber
+Green Beans #V10# 22.00 #Vegetable Weight:500 g # Description:This is a Vegetarian product.Nutrient-dense and crunchy vegetableGood source of vitamins C and K
+Radish #V11# 12.00 #Vegetable Weight:250 g # Description:This is a Vegetarian product.Crunchy and peppery root vegetableRich in vitamin C and fiber
+Ladyfinger (Okra) #V12# 30.00 #Vegetable Weight:500 g # Description:This is a Vegetarian product.Used in Indian curries and side dishesHigh in fiber and folate
+Pumpkin #V13# 35.00 #Vegetable Weight:1 kg # Description:This is a Vegetarian product.Versatile vegetable used in curries and dessertsRich in vitamins A and C
+Ridge Gourd #V14# 18.00 #Vegetable Weight:300 g # Description:This is a Vegetarian product.Mild-flavored vegetable used in Indian cookingLow in calories and high in fiber
+Beetroot #V15# 24.00 #Vegetable Weight:500 g # Description:This is a Vegetarian product.Sweet and earthy root vegetableRich in antioxidants and iron
+Drumstick #V16# 25.00 #Vegetable Weight:200 g # Description:This is a Vegetarian product.Long, slender vegetable used in South Indian cuisineRich in vitamins and minerals
+Bottle Gourd #V17# 30.00 #Vegetable Weight:1 kg # Description:This is a Vegetarian product.Commonly known as LaukiGood source of Vitamin A, C, K, Dietary Fiber and IronEspecially the bottle gourd or lauki juice is beneficial for Vegetable Weight loss
+Garlic #V18# 10.00 #Vegetable Weight:100 g # Description:This is a Vegetarian product.Commonly used for flavoring various dishesKnown for its medicinal properties
+Ginger #V19# 8.00 #Vegetable Weight:100 g # Description:This is a Vegetarian product.Used in various savory and sweet dishesRich in anti-inflammatory and digestive properties
+Cucumber #V20# 15.00 #Vegetable Weight:500 g # Description:This is a Vegetarian product.Refreshing and crunchy vegetableHigh water content, hydrating for the body
+Sweet Potato #V21# 35.00 #Vegetable Weight:1 kg # Description:This is a Vegetarian product.Sweet and nutritious root vegetableHigh in vitamins A and C, fiber, and antioxidants
+Broccoli #V22# 45.00 #Vegetable Weight:500 g # Description:This is a Vegetarian product.Nutrient-dense green vegetableRich in vitamins C, K, and folate
+Asparagus #V23# 50.00 #Vegetable Weight:250 g # Description:This is a Vegetarian product.Delicate and tender vegetableHigh in vitamins A, C, and folate
+Zucchini #V24# 20.00 #Vegetable Weight:300 g # Description:This is a Vegetarian product.Mild-flavored summer squashVersatile for cooking, low in calories
+Kale #V25# 30.00 #Vegetable Weight:200 g # Description:This is a Vegetarian product.Nutrient-packed leafy green vegetableHigh in vitamins A, C, K, and antioxidants
+Turnip #V26# 18.00 #Vegetable Weight:400 g # Description:This is a Vegetarian product.Root vegetable with a peppery tasteRich in vitamins C, K, and fiber
+Celery #V27# 25.00 #Vegetable Weight:250 g # Description:This is a Vegetarian product.Crisp and crunchy stalk vegetableLow in calories, good source of antioxidants
+Leek #V28# 22.00 #Vegetable Weight:300 g # Description:This is a Vegetarian product.Mild-flavored bulb vegetableUsed in soups and stews, rich in vitamins A and K
+Artichoke #V29# 60.00 #Vegetable Weight:400 g # Description:This is a Vegetarian product.Edible flower bud with a nutty flavorRich in fiber, vitamins C and K
+Swiss Chard #V30# 28.00 #Vegetable Weight:300 g # Description:This is a Vegetarian product.Colorful and leafy green vegetableRich in vitamins A, C, and K
+Bok Choy #V31# 32.00 #Vegetable Weight:250 g # Description:This is a Vegetarian product.Crisp and mild-flavored Chinese cabbageHigh in vitamins A, C, and calcium
+Watercress #V32# 18.00 #Vegetable Weight:150 g # Description:This is a Vegetarian product.Peppery and tangy leafy green vegetableRich in vitamins A, C, and iron
+Fennel #V33# 25.00 #Vegetable Weight:200 g # Description:This is a Vegetarian product.Aromatic and licorice-flavored vegetableHigh in fiber, vitamins C and B-6
+Mushroom #V34# 40.00 #Vegetable Weight:200 g # Description:This is a Vegetarian product.Versatile fungi used in various dishesLow in calories, high in vitamins and minerals
+Avocado #V35# 45.00 #Vegetable Weight:150 g # Description:This is a Vegetarian product.Creamy and nutritious fruitHigh in healthy fats, vitamins C, K, E, and folate
+Brussels Sprouts #V36# 38.00 #Vegetable Weight:300 g # Description:This is a Vegetarian product.Small and compact cabbage-like vegetableRich in vitamins C and K, and fiber
+Radicchio #V37# 28.00 #Vegetable Weight:200 g # Description:This is a Vegetarian product.Bitter and colorful leafy vegetableHigh in antioxidants, vitamins K B-9 (folate)
+Shallot #V38# 20.00 #Vegetable Weight:100 g # Description:This is a Vegetarian product.Milder and smaller onion varietyUsed in various culinary dishes
+Parsnip #V39# 22.00 #Vegetable Weight:250 g # Description:This is a Vegetarian product.Sweet and starchy root vegetableHigh in fiber, vitamins C and K
+Yam #V40# 30.00 #Vegetable Weight:500 g # Description:This is a Vegetarian product.Sweet and starchy root vegetableRich in vitamins A and C
+Collard Greens #V41# 25.00 #Vegetable Weight:300 g # Description:This is a Vegetarian product.Large, dark green leafy vegetableHigh in vitamins A, C, and K, and calcium
+Mustard Greens #V42# 20.00 #Vegetable Weight:200 g # Description:This is a Vegetarian product.Peppery and nutritious leafy greensHigh in vitamins A, C, and K
+Endive #V43# 18.00 #Vegetable Weight:150 g # Description:This is a Vegetarian product.Crisp and slightly bitter leafy green vegetableLow in calories, high in fiber
+Escarole #V44# 20.00 #Vegetable Weight:200 g # Description:This is a Vegetarian product.Mild-flavored leafy green vegetableUsed in salads and soups
+Kohlrabi #V45# 25.00 #Vegetable Weight:250 g # Description:This is a Vegetarian product.Crunchy and bulbous vegetableHigh in vitamins C and B-6, and fiber
+Jicama #V46# 30.00 #Vegetable Weight:300 g # Description:This is a Vegetarian product.Crisp and sweet root vegetableHigh in fiber, vitamin C, and minerals
+Bamboo Shoot #V47# 28.00 #Vegetable Weight:200 g # Description:This is a Vegetarian product.Edible shoots of the bamboo plantUsed in Asian cuisines, low in calories
+Water Chestnut #V48# 25.00 #Vegetable Weight:150 g # Description:This is a Vegetarian product.Crisp and slightly sweet aquatic vegetableUsed in Asian cuisines, high in fiber
+Mung Bean Sprouts #V49# 15.00 #Vegetable Weight:100 g # Description:This is a Vegetarian product.Crisp and nutty sproutsHigh in protein, vitamins C and K
+Alfalfa Sprouts #V50# 18.00 #Vegetable Weight:100 g # Description:This is a Vegetarian product.Tender and mild sproutsRich in vitamins A, C, and K, and minerals
+Arugula #V51# 20.00 #Vegetable Weight:150 g # Description:This is a Vegetarian product.Peppery and flavorful leafy green vegetableHigh in vitamins A, C, and K
+Daikon Radish #V52# 22.00 #Vegetable Weight:200 g # Description:This is a Vegetarian product.Large and mild-flavored radishLow in calories, high in fiber and vitamin C
+Green Peas #V53# 25.00 #Vegetable Weight:250 g # Description:This is a Vegetarian product.Sweet and tender green vegetablesHigh in fiber, protein, and vitamins
+Snow Peas #V54# 28.00 #Vegetable Weight:200 g # Description:This is a Vegetarian product.Crisp and edible pod peasLow in calories, high in fiber, vitamins C and K
+Snap Peas #V55# 30.00 #Vegetable Weight:200 g # Description:This is a Vegetarian product.Crisp and sweet edible pod peasLow in calories, high in fiber, vitamins C and K
+Turnip Greens #V56# 15.00 #Vegetable Weight:150 g # Description:This is a Vegetarian product.Leafy greens from turnip plantsHigh in vitamins A, C, and K
+Cilantro (Coriander) #V57# 12.00 #Vegetable Weight:100 g # Description:This is a Vegetarian product.Fresh and aromatic herbUsed in various culinary dishes, high in antioxidants
+Dill #V58# 10.00 #Vegetable Weight:50 g # Description:This is a Vegetarian product.Feathery and aromatic herbUsed in salads, soups, and pickles
+Mint #V59# 12.00 #Vegetable Weight:50 g # Description:This is a Vegetarian product.Refreshing and aromatic herbUsed in beverages, salads, and desserts
+Basil #V60# 15.00 #Vegetable Weight:50 g # Description:This is a Vegetarian product.Aromatic and flavorful herbUsed in Italian and Mediterranean cuisines
+Thyme #V61# 18.00 #Vegetable Weight:30 g # Description:This is a Vegetarian product.Aromatic and earthy herbUsed in savory dishes, soups, and stews
+Rosemary #V62# 20.00 #Vegetable Weight:30 g # Description:This is a Vegetarian product.Aromatic and pine-like herbUsed in roasted meats, potatoes, and Mediterranean dishes
+Sage #V63# 22.00 #Vegetable Weight:30 g # Description:This is a Vegetarian product.Aromatic and savory herbUsed in stuffing, pasta dishes, and soups
+Parsley #V64# 12.00 #Vegetable Weight:50 g # Description:This is a Vegetarian product.Fresh and bright herbUsed as a garnish or in salads and soups
+Chives #V65# 10.00 #Vegetable Weight:30 g # Description:This is a Vegetarian product.Mild and onion-flavored herbUsed as a garnish or in salads
+Cabbage Rose #V66# 50.00 #Vegetable Weight:1 piece # Description:This is a Vegetarian product.Note: Cabbage Rose is a type of rose and not meant for consumption.
+Lavender #V67# 15.00 #Vegetable Weight:10 g # Description:This is a Vegetarian product.Aromatic and floral herbUsed in teas, desserts, and aromatherapy
+Cress #V68# 18.00 #Vegetable Weight:50 g # Description:This is a Vegetarian product.Peppery and tangy leafy green vegetableUsed in salads and sandwiches
+

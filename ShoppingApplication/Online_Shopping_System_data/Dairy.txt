@@ -1,0 +1,74 @@
+Milk #D1# 50.00 # Volume:1 liter #Dairy Product Description:This is a Vegetarian product.Rich source of calcium and vitamin DUsed in various recipes and as a beverage
+Cheese #D2# 120.00 # Weight:250 g #Dairy Product Description:This is a Vegetarian product.Versatile D product with various typesHigh in protein and calcium
+Butter #D3# 60.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.D product made from creamUsed for cooking, baking, and as a spread
+Yogurt #D4# 40.00 # Weight:500 g #Dairy Product Description:This is a Vegetarian product.Fermented D product with probioticsRich in calcium and beneficial for digestion
+Cottage Cheese (Paneer) #D5# 70.00 # Weight:300 g #Dairy Product Description:This is a Vegetarian product.Fresh cheese with a crumbly textureHigh in protein and used in various dishes
+Sour Cream #D6# 45.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.D product with a tangy flavorUsed as a topping for various dishes
+Cream Cheese #D7# 80.00 # Weight:150 g #Dairy Product Description:This is a Vegetarian product.Soft, spreadable cheeseCommonly used in baking and as a dip
+Whipped Cream #D8# 30.00 # Volume:250 ml #Dairy Product Description:This is a Vegetarian product.Cream that has been whipped until light and fluffyUsed as a topping for desserts and beverages
+Evaporated Milk #D9# 35.00 # Volume:400 ml #Dairy Product Description:This is a Vegetarian product.Milk with 60% water removedUsed in cooking and baking
+Condensed Milk #D10# 50.00 # Volume:400 g #Dairy Product Description:This is a Vegetarian product.Sweetened milk with water removedUsed in desserts and beverages
+Goat Cheese #D11# 90.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.Cheese made from goat's milkDistinctive flavor and texture
+Feta Cheese #D12# 85.00 # Weight:250 g #Dairy Product Description:This is a Vegetarian product.Salty and crumbly cheeseCommonly used in salads and Mediterranean dishes
+Mozzarella Cheese #D13# 75.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.Soft and mild cheeseCommonly used in pizzas and Italian dishes
+Blue Cheese #D14# 100.00 # Weight:150 g #Dairy Product Description:This is a Vegetarian product.Cheese with blue veins or spotsStrong and tangy flavor
+Gouda Cheese #D15# 110.00 # Weight:300 g #Dairy Product Description:This is a Vegetarian product.Dutch cheese with a mild flavorCommonly used as a table cheese
+Cheddar Cheese #D16# 95.00 # Weight:250 g #Dairy Product Description:This is a Vegetarian product.Hard and smooth-textured cheeseVersatile and used in various dishes
+Swiss Cheese #D17# 105.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.Firm and nutty-flavored cheeseCommonly used in sandwiches and fondue
+Provolone Cheese #D18# 85.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.Italian semi-hard cheeseMild flavor and creamy texture
+Parmesan Cheese #D19# 120.00 # Weight:150 g #Dairy Product Description:This is a Vegetarian product.Hard and granular cheeseUsed as a topping for pasta and salads
+Creme Fraiche #D20# 60.00 # Volume:150 ml #Dairy Product Description:This is a Vegetarian product.Thickened cream with a tangy flavorUsed in cooking and as a topping
+Ricotta Cheese #D21# 70.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.Italian whey cheeseUsed in both sweet and savory dishes
+Mascarpone Cheese #D22# 80.00 # Weight:250 g #Dairy Product Description:This is a Vegetarian product.Italian cream cheeseRich and smooth texture, used in desserts
+Buttermilk #D23# 25.00 # Volume:500 ml #Dairy Product Description:This is a Vegetarian product.Thin and tangy fermented milkUsed in baking, cooking, and beverages
+Kefir #D24# 30.00 # Volume:400 ml #Dairy Product Description:This is a Vegetarian product.Fermented milk drinkRich in probiotics and beneficial for digestion
+Clotted Cream #D25# 40.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.Thick cream with a high fat contentCommonly used in British cuisine
+Mawa (Khoya) #D26# 50.00 # Weight:250 g #Dairy Product Description:This is a Vegetarian product.Concentrated milk solidsUsed in Indian sweets and desserts
+Srikhand #D27# 45.00 # Weight:300 g #Dairy Product Description:This is a Vegetarian product.Sweetened and flavored strained yogurtPopular Indian dessert
+Dulce de Leche #D28# 55.00 # Volume:250 g #Dairy Product Description:This is a Vegetarian product.Sweet caramel-like milk spreadUsed in desserts and as a topping
+Labneh #D29# 35.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.Strained yogurt with a thick consistencyUsed as a spread or dip
+Quark #D30# 40.00 # Weight:300 g #Dairy Product Description:This is a Vegetarian product.Soft and creamy fresh cheeseCommonly used in European cuisine
+Custard #D31# 50.00 # Volume:400 ml #Dairy Product Description:This is a Vegetarian product.Sweet dessert made from milk and eggsCan be served on its own or as a base for other desserts
+Paneer Butter Masala #D32# 120.00 # Weight:500 g #Dairy Product Description:This is a Vegetarian product.~Dish made with paneer (cottage cheese)~Creamy and flavorful Indian curry
+Mango Lassi #D33# 35.00 # Volume:300 ml #Dairy Product Description:This is a Vegetarian product.Refreshing yogurt-based drink with mango flavorPopular in Indian cuisine
+Rasmalai #D34# 80.00 # Weight:250 g #Dairy Product Description:This is a Vegetarian product.Indian dessert made with paneer and milkServed in a creamy, saffron-infused milk
+Chocolate Milk #D35# 45.00 # Volume:500 ml #Dairy Product Description:This is a Vegetarian product.Milk flavored with chocolatePopular as a sweet beverage
+Brie Cheese #D36# 90.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.Soft and creamy French cheeseMild flavor and edible rind
+Butter #D37# 60.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.D product made from creamUsed for cooking, baking, and as a spread
+Yogurt #D38# 40.00 # Weight:500 g #Dairy Product Description:This is a Vegetarian product.Fermented D product with probioticsRich in calcium and beneficial for digestion
+Cottage Cheese (Paneer) #D39# 70.00 # Weight:300 g #Dairy Product Description:This is a Vegetarian product.Fresh cheese with a crumbly textureHigh in protein and used in various dishes
+Sour Cream #D40# 45.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.D product with a tangy flavorUsed as a topping for various dishes
+Cream Cheese #D41# 80.00 # Weight:150 g #Dairy Product Description:This is a Vegetarian product.Soft, spreadable cheeseCommonly used in baking and as a dip
+Whipped Cream #D42# 30.00 # Volume:250 ml #Dairy Product Description:This is a Vegetarian product.Cream that has been whipped until light and fluffyUsed as a topping for desserts and beverages
+Evaporated Milk #D43# 35.00 # Volume:400 ml #Dairy Product Description:This is a Vegetarian product.Milk with 60% water removedUsed in cooking and baking
+Condensed Milk #D44# 50.00 # Volume:400 g #Dairy Product Description:This is a Vegetarian product.Sweetened milk with water removedUsed in desserts and beverages
+Goat Cheese #D45# 90.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.Cheese made from goat's milkDistinctive flavor and texture
+Feta Cheese #D46# 85.00 # Weight:250 g #Dairy Product Description:This is a Vegetarian product.Salty and crumbly cheeseCommonly used in salads and Mediterranean dishes
+Mozzarella Cheese #D47# 75.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.Soft and mild cheeseCommonly used in pizzas and Italian dishes
+Blue Cheese #D48# 100.00 # Weight:150 g #Dairy Product Description:This is a Vegetarian product.Cheese with blue veins or spotsStrong and tangy flavor
+Gouda Cheese #D49# 110.00 # Weight:300 g #Dairy Product Description:This is a Vegetarian product.Dutch cheese with a mild flavorCommonly used as a table cheese
+Cheddar Cheese #D50# 95.00 # Weight:250 g #Dairy Product Description:This is a Vegetarian product.Hard and smooth-textured cheeseVersatile and used in various dishes
+Swiss Cheese #D51# 105.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.Firm and nutty-flavored cheeseCommonly used in sandwiches and fondue
+Provolone Cheese #D52# 85.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.Italian semi-hard cheeseMild flavor and creamy texture
+Parmesan Cheese #D53# 120.00 # Weight:150 g #Dairy Product Description:This is a Vegetarian product.Hard and granular cheeseUsed as a topping for pasta and salads
+Creme Fraiche #D54# 60.00 # Volume:150 ml #Dairy Product Description:This is a Vegetarian product.Thickened cream with a tangy flavorUsed in cooking and as a topping
+Ricotta Cheese #D55# 70.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.Italian whey cheeseUsed in both sweet and savory dishes
+Mascarpone Cheese #D56# 80.00 # Weight:250 g #Dairy Product Description:This is a Vegetarian product.Italian cream cheeseRich and smooth texture, used in desserts
+Buttermilk #D57# 25.00 # Volume:500 ml #Dairy Product Description:This is a Vegetarian product.Thin and tangy fermented milkUsed in baking, cooking, and beverages
+Kefir #D58# 30.00 # Volume:400 ml #Dairy Product Description:This is a Vegetarian product.Fermented milk drinkRich in probiotics and beneficial for digestion
+Clotted Cream #D59# 40.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.Thick cream with a high fat contentCommonly used in British cuisine
+Mawa (Khoya) #D60# 50.00 # Weight:250 g #Dairy Product Description:This is a Vegetarian product.Concentrated milk solidsUsed in Indian sweets and desserts
+Srikhand #D61# 45.00 # Weight:300 g #Dairy Product Description:This is a Vegetarian product.Sweetened and flavored strained yogurtPopular Indian dessert
+Dulce de Leche #D62# 55.00 # Volume:250 g #Dairy Product Description:This is a Vegetarian product.Sweet caramel-like milk spreadUsed in desserts and as a topping
+Labneh #D63# 35.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.Strained yogurt with a thick consistencyUsed as a spread or dip
+Quark #D64# 40.00 # Weight:300 g #Dairy Product Description:This is a Vegetarian product.Soft and creamy fresh cheeseCommonly used in European cuisine
+Custard #D65# 50.00 # Volume:400 ml #Dairy Product Description:This is a Vegetarian product.Sweet dessert made from milk and eggsCan be served on its own or as a base for other desserts
+Paneer Butter Masala #D66# 120.00 # Weight:500 g #Dairy Product Description:This is a Vegetarian product.Dish made with paneer (cottage cheese)Creamy and flavorful Indian curry
+Mango Lassi #D67# 35.00 # Volume:300 ml #Dairy Product Description:This is a Vegetarian product.Refreshing yogurt-based drink with mango flavorPopular in Indian cuisine
+Rasmalai #D68# 80.00 # Weight:250 g #Dairy Product Description:This is a Vegetarian product.Indian dessert made with paneer and milkServed in a creamy, saffron-infused milk
+Chocolate Milk #D69# 45.00 # Volume:500 ml #Dairy Product Description:This is a Vegetarian product.Milk flavored with chocolatePopular as a sweet beverage
+Brie Cheese #D70# 90.00 # Weight:200 g #Dairy Product Description:This is a Vegetarian product.Soft and creamy French cheeseMild flavor and edible rind
+Ghee #D71# 80.00 # Weight:400 g #Dairy Product Description:This is a Vegetarian product.Clarified butter with a rich, nutty flavorUsed in Indian cooking and as a cooking fat
+Greek Yogurt #D72# 50.00 # Weight:300 g #Dairy Product Description:This is a Vegetarian product.Thick and creamy strained yogurtHigh in protein and commonly used as a healthy snack
+
+

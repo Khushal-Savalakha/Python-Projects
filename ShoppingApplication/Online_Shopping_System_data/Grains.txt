@@ -1,0 +1,34 @@
+Rice #G1# 350.00 #Grains Weight:5 kg # Description:This is a Vegetarian product.Common staple foodVersatile for various dishes~Rich in carbohydrates
+Wheat Flour #G2# 50.00 #Grains Weight:2 kg # Description:This is a Vegetarian product.Essential for making chapatis and breadGood source of dietary fiber and protein
+Quinoa #G3# 120.00 #Grains Weight:500 g # Description:This is a Vegetarian product.Nutrient-dense grainHigh in protein and fiberGluten-free
+Oats #G4# 80.00 #Grains Weight:1 kg # Description:This is a Vegetarian product.Healthy whole grainGood source of soluble fiberCan be used in porridge, cookies, and more
+Barley #G5# 35.00 #Grains Weight:500 g # Description:This is a Vegetarian product.Ancient whole grainRich in fiber and nutrientsUsed in soups, stews, and salads
+Buckwheat #G6# 90.00 #Grains Weight:1 kg # Description:This is a Vegetarian product.Pseudocereal with triangular seedsRich in protein and essential amino acidsGluten-free
+Millet #G7# 65.00 #Grains Weight:750 g # Description:This is a Vegetarian product.Small-seeded whole grainHigh in nutrients and antioxidantsGluten-free
+Spelt #G8# 110.00 #Grains Weight:500 g # Description:This is a Vegetarian product.Ancient wheat varietyRich in fiber, protein, and B vitamins
+Farro #G9# 120.00 #Grains Weight:1 kg # Description:This is a Vegetarian product.Ancient wheat grainNutrient-dense and high in fiberUsed in salads and soups
+Amaranth #G10# 80.00 #Grains Weight:400 g # Description:This is a Vegetarian product.Pseudocereal with tiny seedsHigh in protein, fiber, and micronutrientsGluten-free
+Couscous #G11# 40.00 #Grains Weight:500 g # Description:This is a Vegetarian product.Made from crushed wheatQuick-cooking grainVersatile for various dishes
+Sorghum #G12# 55.00 #Grains Weight:800 g # Description:This is a Vegetarian product.Ancient whole grainGluten-free and rich in antioxidantsUsed in porridge and baked goods
+Teff #G13# 75.00 #Grains Weight:300 g # Description:This is a Vegetarian product.Tiny whole grainGluten-free and rich in iron and calciumUsed in traditional Ethiopian dishes
+Freekeh #G14# 100.00 #Grains Weight:600 g # Description:This is a Vegetarian product.Young green wheatHigh in protein and fiberUsed in salads and pilafs
+Kamut #G15# 150.00 #Grains Weight:700 g # Description:This is a Vegetarian product.Ancient wheat grainRich in protein, selenium, and zinc
+Bulgur #G16# 45.00 #Grains Weight:400 g # Description:This is a Vegetarian product.Parboiled and cracked wheatQuick-cooking and versatileUsed in salads and pilafs
+Rye #G17# 70.00 #Grains Weight:600 g # Description:This is a Vegetarian product.Whole grain with distinctive flavorGood source of fiber and nutrients
+Chia Seeds #G18# 120.00 #Grains Weight:250 g # Description:This is a Vegetarian product.Tiny seeds rich in omega-3 fatty acidsHigh in fiber and antioxidantsUsed in smoothies, puddings, and baking
+Sesame Seeds #G19# 50.00 #Grains Weight:300 g # Description:This is a Vegetarian product.Tiny seeds with a nutty flavorRich in healthy fats and mineralsUsed in cooking and baking
+Flax Seeds #G20# 55.00 #Grains Weight:200 g # Description:This is a Vegetarian product.Small seeds with high omega-3 fatty acidsRich in fiber and lignansUsed in smoothies, baking, and as a topping
+Sunflower Seeds #G21# 35.00 #Grains Weight:400 g # Description:This is a Vegetarian product.Nutrient-dense seedsRich in vitamin E and healthy fatsUsed in salads, snacks, and baking
+Pumpkin Seeds #G22# 40.00 #Grains Weight:350 g # Description:This is a Vegetarian product.Nutrient-rich seedsHigh in protein, iron, and magnesiumUsed as snacks or in baking
+Poppy Seeds #G23# 30.00 #Grains Weight:150 g # Description:This is a Vegetarian product.Tiny seeds with a nutty flavorUsed in baking, cooking, and as a topping
+Hemp Seeds #G24# 80.00 #Grains Weight:250 g # Description:This is a Vegetarian product.Nutrient-dense seedsHigh in protein, omega-3 fatty acids, and mineralsUsed in smoothies, salads, and snacks
+Bajra (Pearl Millet) #G25# 45.00 #Grains Weight:1 kg # Description:This is a Vegetarian product.Nutrient-dense grainRich in iron and fiberCommonly used in Indian cuisine
+Foxtail Millet #G26# 30.00 #Grains Weight:500 g # Description:This is a Vegetarian product.Small-grained milletGluten-free and rich in nutrientsUsed in porridge, upma, and dishes
+Job's Tears #G27# 70.00 #Grains Weight:300 g # Description:This is a Vegetarian product.Edible seeds with a chewy textureHigh in protein and fiberUsed in Asian cuisine
+Barnyard Millet #G28# 25.00 #Grains Weight:600 g # Description:This is a Vegetarian product.Small-grained milletGluten-free and rich in nutrientsUsed in porridge, upma, and dishes
+Fonio #G29# 100.00 #Grains Weight:400 g # Description:This is a Vegetarian product.Tiny G with a nutty flavorGluten-free and rich in amino acidsUsed in West African cuisine
+Sorghum Flour #G30# 60.00 #Grains Weight:1 kg # Description:This is a Vegetarian product.Flour made from sorghum grainGluten-free and used in baking
+Amaranth Flour #G31# 45.00 #Grains Weight:300 g # Description:This is a Vegetarian product.Flour made from amaranth grainGluten-free and used in baking
+Teff Flour #G32# 70.00 #Grains Weight:250 g # Description:This is a Vegetarian product.Flour made from teff grainGluten-free and used in traditional Ethiopian dishes
+Quinoa Flour #G33# 80.00 #Grains Weight:200 g # Description:This is a Vegetarian product.Flour made from quinoa grainGluten-free and used in baking
+Chickpea Flour (Besan) #G34# 40.00 #Grains Weight:500 g # Description:This is a Vegetarian product.Flour made from ground chickpeasGluten
